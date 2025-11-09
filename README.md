@@ -8,14 +8,6 @@ Every project I take on is a step toward creating safer digital environments.
 
 ---
 
-### ⚙️ What I’m Working On  
-- Strengthening my hands-on experience in **network security** and **firewall configuration**  
-- Exploring **ethical hacking**, **vulnerability assessment**, and **incident response**  
-- Developing **automation scripts** for system monitoring and data analysis  
-- Applying **security frameworks** to real-world network scenarios  
-
----
-
 ### 🧰 Technical Skills  
 
 #### 🧩 **Networking & Security**
@@ -26,19 +18,8 @@ Every project I take on is a step toward creating safer digital environments.
 #### 💾 **Systems & Platforms**
 - Linux (Kali, Ubuntu), Windows Server  
 - Shell Scripting & Command-line Automation  
-- Virtualization (VMware, VirtualBox)  
-
-#### 📈 **Data & Tools**
-- Power BI, Excel (Advanced), SQL (Basic Queries), Wazuh  
+- Virtualization (VirtualBox)  
 - Network Simulation: Cisco Packet Tracer  
-
----
-
-### 🌱 Currently Learning  
-- CompTIA Security+ and Network+ Fundamentals  
-- Python for Cybersecurity Automation  
-- Penetration Testing Methodologies  
-- SIEM Tools & Log Analysis  
 
 ---
 
@@ -50,13 +31,18 @@ Every project I take on is a step toward creating safer digital environments.
 
 ---
 
+### 🎯 Fun Fact  
+When I’m not securing networks, I’m probably **testing open-source tools**, **tinkering with virtual labs**, or **reverse-engineering random tech just to see how it works.** 
+
+---
+
 ### 🧭 My Tech Philosophy  
 > *“Security isn’t a one-time act—it’s a continuous mindset.”*  
 
 ---
 
 ### 📫 Connect with Me  
-📧 **Email:** [aikomoooluwamuyiwa@gmail.com]  
+📧 **Email:** [aikomooluwamuyiwa@gmail.com]  
 💼 **LinkedIn:** [linkedin.com/in/oluwamuyiwaaikomo](https://linkedin.com/in/oluwamuyiwaaikomo)  
 🐙 **GitHub:** [github.com/OluwamuyiwaAikomo](https://github.com/OluwamuyiwaAikomo)  
 
