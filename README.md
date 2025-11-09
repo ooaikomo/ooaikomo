@@ -32,7 +32,7 @@ Every project I take on is a step toward creating safer digital environments.
 ---
 
 ### 🎯 Fun Fact  
-When I’m not securing networks, I’m probably **testing open-source tools**, **tinkering with virtual labs**, or **reverse-engineering random tech just to see how it works.** 
+When I’m not securing networks, I’m probably **testing open-source tools**, **tinkering with virtual labs**, or **reverse-engineering random tech to see how it works.** 
 
 ---
 
@@ -43,7 +43,7 @@ When I’m not securing networks, I’m probably **testing open-source tools**, 
 
 ### 📫 Connect with Me  
 📧 **Email:** [aikomooluwamuyiwa@gmail.com]  
-💼 **LinkedIn:** [linkedin.com/in/oluwamuyiwaaikomo](https://linkedin.com/in/oluwamuyiwaaikomo)  
+💼 **LinkedIn:** [linkedin.com/in/oluwamuyiwaaikomo]()  
 🐙 **GitHub:** [github.com/OluwamuyiwaAikomo](https://github.com/ooaikomo)  
 
 ---
