@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluwamuyiwa Aikomo  
 
-> 🔐 *My mission is to make technology safer—one system, one network, one solution at a time.*  
+> 🔐 *My mission is to make technology safer; one system, one network, one solution at a time.*  
 
 I’m passionate about **cybersecurity**, **networking**, and **automation**.  
 I enjoy exploring how systems connect, uncovering vulnerabilities, and building stronger, smarter networks.  
@@ -37,7 +37,7 @@ When I’m not securing networks, I’m probably **testing open-source tools**, 
 ---
 
 ### 🧭 My Tech Philosophy  
-> *“Security isn’t a one-time act—it’s a continuous mindset.”*  
+> *“Security isn’t a one-time act; it’s a continuous mindset.”*  
 
 ---
 
