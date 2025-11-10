@@ -11,8 +11,8 @@ Every project I take on is a step toward creating safer digital environments.
 ### 🧰 Technical Skills  
 
 #### 🧩 **Networking & Security**
-- Access Control Lists (ACLs), Firewalls (pfSense), VPN Configuration  
-- Packet Analysis (Wireshark, tcpdump)  
+- Access Control Lists (ACLs), Firewalls (pfSense)  
+- Packet Analysis (Wireshark)  
 - Vulnerability Scanning & Threat Detection  
 
 #### 💾 **Systems & Platforms**
@@ -24,7 +24,7 @@ Every project I take on is a step toward creating safer digital environments.
 ---
 
 ### 💡 Projects to Explore  
-- 🧱 **pfSense Firewall Setup:** Configured and tested ACLs, outbound/inbound traffic rules  
+- 🧱 **Network Security Setup:** Configured and tested ACLs, outbound/inbound traffic rules  
 - 🧠 **Network Analysis Lab:** Captured and analyzed live traffic with Wireshark  
 - 🧰 **Automation Scripts:** Linux shell tools for process checks and log monitoring  
 *(More projects coming soon…)*  
