@@ -24,7 +24,7 @@ Every project I take on is a step toward creating safer digital environments.
 ---
 
 ### 💡 Projects to Explore  
-- 🧱 **Network Security Setup:** Configured and tested ACLs, outbound/inbound traffic rules  
+- 🧱 **Network Security Setup:** Configured and tested ACLs, outbound/inbound traffic rules with pfSense  
 - 🧠 **Network Analysis Lab:** Captured and analyzed live traffic with Wireshark  
 - 🧰 **Automation Scripts:** Linux shell tools for process checks and log monitoring  
 *(More projects coming soon…)*  
