@@ -12,7 +12,7 @@ Every project I take on is a step toward creating safer digital environments.
 
 #### 🧩 **Networking & Security**
 - Access Control Lists (ACLs), Firewalls (pfSense)  
-- Packet Analysis (Wireshark)  
+- Packet Analysis (Wireshark, tcpdump)  
 - Vulnerability Scanning & Threat Detection  
 
 #### 💾 **Systems & Platforms**
