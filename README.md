@@ -8,25 +8,21 @@ Every project I take on is a step toward creating safer digital environments.
 
 ---
 
-### 🧰 Technical Skills  
-
-#### 🧩 **Networking & Security**
-- Access Control Lists (ACLs), Firewalls (pfSense)  
-- Packet Analysis (Wireshark, tcpdump)  
-- Vulnerability Scanning & Threat Detection  
-
-#### 💾 **Systems & Platforms**
-- Linux (Kali, Ubuntu), Windows Server  
-- Shell Scripting & Command-line Automation  
-- Virtualization (VirtualBox)  
-- Network Simulation: Cisco Packet Tracer  
+### ⚙️ Technical Focus  
+- **Network Security:** ACLs, Firewalls, Packet Filtering  
+- **Systems:** Linux (Kali, Ubuntu), Windows Server, Virtualization  
+- **Cyber Tools:** Wazuh, Wireshark, pfSense, Cisco Packet Tracer, draw.io  
+- **Scripting:** Bash for automation and monitoring  
+- **Networking:** Subnetting, Routing, Traffic Control, TCP/IP Analysis  
+- **SOC & Detection:** SIEM fundamentals, alert triage, incident analysis 
 
 ---
 
 ### 💡 Projects to Explore  
-- 🧱 **Network Security Setup:** Configured and tested ACLs, outbound/inbound traffic rules with pfSense  
-- 🧠 **Network Analysis Lab:** Captured and analyzed live traffic with Wireshark  
-- 🧰 **Automation Scripts:** Linux shell tools for process checks and log monitoring  
+- 🧱 **Network Security Setup:** Designed a multi-department network using ACLs to control traffic, restrict access, and strengthen internal security.
+- 🛡️ **SOC Incident Simulation:** Investigated suspicious activity, analyzed PCAP data, and performed alert triage in a simulated SOC environment.    
+- 🧠 **Network Analysis Lab:** Used Wireshark to inspect packets, detect anomalies, and understand communication flows across the network.  
+- 🧰 **Automation Scripts:** Built lightweight scripts to monitor logs, check processes, and automate basic security workflows in Linux.  
 *(More projects coming soon…)*  
 
 ---
