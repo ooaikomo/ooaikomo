@@ -20,9 +20,7 @@ Every project I take on is a step toward creating safer digital environments.
 
 ### 💡 Projects to Explore  
 - 🧱 **Network Security Setup:** Designed a multi-department network using ACLs to control traffic, restrict access, and strengthen internal security.
-- 🛡️ **SOC Incident Simulation:** Investigated suspicious activity, analyzed PCAP data, and performed alert triage in a simulated SOC environment.    
-- 🧠 **Network Analysis Lab:** Used Wireshark to inspect packets, detect anomalies, and understand communication flows across the network.  
-- 🧰 **Automation Scripts:** Built lightweight scripts to monitor logs, check processes, and automate basic security workflows in Linux.  
+- 🛡️ **SOC Incident Simulation:** Investigated suspicious activity, analyzed PCAP data, and performed alert triage in a simulated SOC environment.     
 *(More projects coming soon…)*  
 
 ---
