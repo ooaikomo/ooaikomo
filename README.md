@@ -37,7 +37,7 @@ When I’m not securing networks, I’m probably **testing open-source tools**, 
 
 ### 📫 Connect with Me  
 📧 **Email:** [aikomooluwamuyiwa@gmail.com]  
-💼 **LinkedIn:** [linkedin.com/in/oluwamuyiwaaikomo]()  
+💼 **LinkedIn:** [linkedin.com/in/oluwamuyiwaaikomo](https://www.linkedin.com/in/oluwamuyiwa-aikomo-453437124?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B61WmInrYRkS%2BpiAXYlPYqQ%3D%3D)  
 🐙 **GitHub:** [github.com/OluwamuyiwaAikomo](https://github.com/ooaikomo)  
 
 ---
